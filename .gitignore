@@ -3,3 +3,4 @@
 __pycache__/
 *.pyc
 data/viagens_2025_6meses.zip
+data/*.csv
