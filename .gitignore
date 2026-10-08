@@ -6,3 +6,5 @@ data/viagens_2025_6meses.zip
 data/*.csv
 silver/*.csv
 Untitled-1.py
+
+gold/*.csv
