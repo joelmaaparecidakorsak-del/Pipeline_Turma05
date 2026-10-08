@@ -5,4 +5,3 @@ __pycache__/
 data/viagens_2025_6meses.zip
 data/*.csv
 silver/*.csv
-data/diagnostico.py
